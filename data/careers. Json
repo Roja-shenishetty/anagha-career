@@ -9,10 +9,9 @@
       "description": "As a Full Stack Developer, you will be responsible for developing scalable applications.",
       "salary": "$500/Month",
       "apply_url": "apply.php?job=fsd-hyd"
-    }
-  ]
-}
-{
+    },
+    {
+      "id": "analytics-tx",
       "title": "Analytics Manager",
       "location": "Texas - USA",
       "type": "Contract",
@@ -20,3 +19,5 @@
       "salary": "$1200/Month",
       "apply_url": "#"
     }
+  ]
+}
