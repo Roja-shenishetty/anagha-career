@@ -2,7 +2,7 @@
   "updated_at": "2026-02-01",
   "careers": [
     {
-      "id": "fsd-hyd",
+      "id": "AN-JOB-001",
       "title": "Full Stack Developer",
       "location": "Hyderabad - India",
       "type": "Fulltime",
@@ -11,7 +11,7 @@
       "apply_url": "apply.php?job=fsd-hyd"
     },
     {
-      "id": "analytics-tx",
+      "id": "AN-JOB-002",
       "title": "Analytics Manager",
       "location": "Texas - USA",
       "type": "Contract",
@@ -20,7 +20,7 @@
       "apply_url": "#"
     },
    {
-      "id": "bd-pune",
+      "id": "AN-JOB-003",
       "title": "Blockchain Developer",
       "location": "Pune - India",
       "type": "Consulting",
@@ -29,7 +29,7 @@
       "apply_url": "apply.php?job=bd-pune"
     },
     {
-      "id": "uiux-blr",
+      "id": "AN-JOB-004",
       "title": "UI/UX Designer",
       "location": "Bangalore - India",
       "type": "Fulltime",
@@ -38,7 +38,7 @@
       "apply_url": "apply.php?job=uiux-blr"
     },
     {
-      "id": "qa-remote",
+      "id": "AN-JOB-005",
       "title": "QA Automation Engineer",
       "location": "Remote",
       "type": "Fulltime",
@@ -47,7 +47,7 @@
       "apply_url": "apply.php?job=qa-remote"
     },
     {
-      "id": "devops-hyd",
+      "id": "AN-JOB-006",
       "title": "DevOps Engineer",
       "location": "Hyderabad - India",
       "type": "Fulltime",
